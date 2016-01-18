@@ -31,5 +31,7 @@ node_modules
 .npm
 
 # Optional REPL history
-<<<<<<< HEAD
 .node_repl_history
+
+# Config
+config.js
